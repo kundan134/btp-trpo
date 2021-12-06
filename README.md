@@ -2,7 +2,7 @@
 Usage
 
 pip install -r requirement.txt
-python main.py --env-name "Reacher-v1"
+python main.py --env-name "Reacher-v2"
 
 Recommended hyper parameters
 
